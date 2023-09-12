@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: PotionsAlerter
+## Notes: display in the general battlegroun chat of opponents using Free Action Potion and Living Action Potion
+## Version: 1.0
+
+PotionsAlerter.lua
